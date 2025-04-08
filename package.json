@@ -1,11 +1,15 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Sukanta Bala's Personal Portfolio",
+  "engine": {
+    "node": "16.20.2",
+    "yarn": "1.22.22"
+  },
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Design and Developed by Brittany Chiang<brittany.chiang@gmail.com>, updated & modified by Sukanta Bala (sukantabalacste28@gamil.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/iamsukanta/my-new-portfolio"
   },
   "keywords": [
     "gatsby"
@@ -20,8 +24,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "prepare": "husky install",
-    "lint-staged": "lint-staged",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "lint-staged": "lint-staged"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [
@@ -73,10 +76,8 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
     "gatsby-remark-code-titles": "^1.1.0",
-    "gh-pages": "^6.3.0",
     "husky": "^6.0.0",
     "lint-staged": "^10.1.2",
     "prettier": "^2.2.1"
-  },
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  }
 }
