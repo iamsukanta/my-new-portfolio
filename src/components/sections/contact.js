@@ -65,7 +65,10 @@ const Contact = () => {
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Say Hello{' '}
+        <span role="img" aria-label="clapping hands">
+          👏
+        </span>
       </a>
     </StyledContactSection>
   );

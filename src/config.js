@@ -22,6 +22,10 @@ module.exports = {
       name: 'Upwork',
       url: 'https://www.upwork.com/freelancers/sukanta',
     },
+    {
+      name: 'Blog',
+      url: 'https://blog.iamsukanta.com/',
+    },
   ],
 
   navLinks: [
