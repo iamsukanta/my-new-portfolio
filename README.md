@@ -5,7 +5,7 @@
   https://iamsukanta.com
 </h1>
 <p align="center">
-  Huge shoutout for<a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> making this website opensource.</a>
+  Huge shoutout for <a href="https://brittanychiang.com" target="_blank"> brittanychiang.com</a> making this website opensource.</a>
 </p>
 
 ## 🛠 Installation & Set Up
