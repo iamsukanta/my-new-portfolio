@@ -18,10 +18,10 @@ module.exports = {
       name: 'Leetcode',
       url: 'https://leetcode.com/u/sukantabalacste28/',
     },
-    {
-      name: 'Upwork',
-      url: 'https://www.upwork.com/freelancers/sukanta',
-    },
+    // {
+    //   name: 'Upwork',
+    //   url: 'https://www.upwork.com/freelancers/sukanta',
+    // },
     {
       name: 'Blog',
       url: 'https://blog.iamsukanta.com/',

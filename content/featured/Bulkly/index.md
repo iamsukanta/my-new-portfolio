@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '5'
 title: 'Bulkly | Short Media Automation'
 cover: './cover.png'
 external: 'https://bulk.ly/'
@@ -10,6 +10,8 @@ tech:
   - jQuery
   - Social Media API
   - MySQL
+  - AI Implementation
+  - Job Scheduling
   - CSS3
   - WordPress
 ---

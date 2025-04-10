@@ -62,11 +62,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sukanta Bala.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Bringing ideas to life through code.</h3>;
   const four = (
     <>
       <p>
-        Full Stack Engineer with 7+ years of experience in building scalable and maintainable
+        Fullstack Engineer with 6+ years of solid experience in building scalable and maintainable
         applications, ensuring efficiency and reliability. Passionate about delivering scalable,
         high-performance solutions in Agile/Scrum environments.
       </p>

@@ -131,15 +131,21 @@ const About = () => {
     'Vue JS',
     'Nuxt JS',
     'React JS',
+    'Next JS',
     'Node.js',
     'Express JS',
+    'ChatGPT API',
+    'LLM',
+    'AWS',
+    'Docker',
     'Pinia',
     'Redux',
     'Vuex',
     'Python',
+    'Flask',
     'Laravel',
     'TailwindCSS',
-    'Bootstrap',
+    'Bootstrap4',
     'Vuetify',
   ];
 
@@ -151,13 +157,53 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, I’m Sukanta - a full-stack developer with a bachelor's degree in computer
-              science and 6+ years of web development experience. I have a lot of involvement with
-              creating web assets (sites, modules, expansions, bundles, single-page applications)
-              from arranging and planning to execution and backing.
+              Hello, I’m Sukanta — a Fullstack Engineer based in Berlin, Germany, with a Bachelor's
+              degree in Computer Science and Telecommunication Engineering. I enjoy building
+              meaningful web experiences that bring real value to users.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+              With expertise in both frontend and backend development, I bring a holistic approach
+              to problem-solving and product building.
+            </p>
+
+            <p>
+              I graduated from{' '}
+              <a href="https://nstu.edu.bd" target="_blank" rel="noreferrer">
+                Noakhali Science and Technology University
+              </a>
+              , a renowned public university in Bangladesh. Both my degree and university are
+              officially recognized by the German authority{' '}
+              <a
+                href="https://drive.google.com/file/d/15w9l2jASGbfYssJWfysJDZ9-exCEbzWW/view?usp=sharing"
+                target="_blank" rel="noreferrer">
+                ZAB
+              </a>
+              .
+            </p>
+
+            <p>
+              Throughout my journey as a developer, I've built several useful and impactful projects
+              — both for companies and clients. I'm always open to collaborating with fellow
+              developers, creative minds, and forward-thinking teams. Let’s connect on{' '}
+              <a href="https://www.linkedin.com/in/iamsukanta/">LinkedIn</a>!
+            </p>
+
+            <p>Here are some technologies I’ve been working with recently:</p>
+
+            {/* <p>
+              Hello, I’m Sukanta - a Berlin, Germany based Fullstack Engineer with a bachelor's degree in Computer
+              Science and Telecommunication Engineering. I enjoy creating things for the web which is beneficial to real users.
+              My expertise in both areas frontend and backend, made me a Fullstack Engineer. 
+
+              I have completed my graduation from <a href='https://nstu.edu.bd' target='_blank'>Noakhali Science and Technology University</a>, 
+              which is a very well known public University of Bangladesh. My Degree and University are both verified by German Authority 
+              <a href='https://drive.google.com/file/d/15w9l2jASGbfYssJWfysJDZ9-exCEbzWW/view?usp=sharing' target='_blank'>ZAB</a>
+
+              I have developed some interesting and usefull projects for my company as well as my client's throughout my entire developer journey. I am always open to collaborate with fellow developers, clients and visionary people. Let's connect through <a href='https://www.linkedin.com/in/iamsukanta/'>Linkedin</a>.
+            </p>
+
+            <p>Here are a some technologies I’ve been working with recently:</p> */}
           </div>
 
           <ul className="skills-list">
