@@ -66,7 +66,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Fullstack Engineer with 6+ years of solid experience in building scalable and maintainable
+        Fullstack Engineer with 7+ years of solid experience in building scalable and maintainable
         applications, ensuring efficiency and reliability. Passionate about delivering scalable,
         high-performance solutions in Agile/Scrum environments.
       </p>
