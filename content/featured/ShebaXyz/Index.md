@@ -1,0 +1,16 @@
+---
+date: '6'
+title: 'Sheba.xyz | A Service based platform'
+cover: './cover.png'
+github: ''
+external: 'https://www.pickaboo.com/'
+tech:
+  - Vue JS
+  - Nuxt JS
+  - Styled Components
+  - Figma to UX
+  - API Integration
+  - AWS S3
+---
+
+Your Personal Assistant. One-stop solution for your services. Order any service, anytime.
