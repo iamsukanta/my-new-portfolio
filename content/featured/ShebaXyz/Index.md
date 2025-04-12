@@ -13,4 +13,4 @@ tech:
   - AWS S3
 ---
 
-Your Personal Assistant. One-stop solution for your services. Order any service, anytime.
+Sheba.xyz is your Personal Assistant. One-stop solution for your services. Order any service, anytime.
