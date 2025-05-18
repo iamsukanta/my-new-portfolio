@@ -3,7 +3,7 @@ date: '3'
 title: 'REDX | Bangladeshs Largest Logistics Network'
 cover: './cover.png'
 github: ''
-external: 'https://www.pickaboo.com/'
+external: 'https://www.redex.com.bd/'
 tech:
   - React JS
   - Next JS

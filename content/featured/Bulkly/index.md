@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Bulkly | Short Media Automation'
 cover: './cover.png'
 external: 'https://bulk.ly/'

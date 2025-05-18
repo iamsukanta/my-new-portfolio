@@ -1,9 +1,9 @@
 ---
-date: '6'
+date: '4'
 title: 'Sheba.xyz | A Service based platform'
 cover: './cover.png'
 github: ''
-external: 'https://www.pickaboo.com/'
+external: 'https://www.sheba.xyz/'
 tech:
   - Vue JS
   - Nuxt JS
